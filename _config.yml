@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sbriggson
 github_username: 
 permalink: /:year/:title:output_ext
-
+analytics: UA-143768420-1
 
 # Author Settings
 author: Samuel Briggson 
@@ -44,6 +44,7 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
