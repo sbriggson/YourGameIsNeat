@@ -23,12 +23,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sbriggson
 github_username: 
+permalink: /:year/:title:output_ext
+
 
 # Author Settings
 author: Samuel Briggson 
-author-img: david-freeman.jpg # add your photo
+author-img: your-game-is-neat.png # add your photo
 social-twitter: sbriggson
-social-email: samuel@sbriggson.com
+social-email: Samuel@YourGameIsNeat.com
 
 
 # Build settings
